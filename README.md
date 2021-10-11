@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huy105
+- 👋 Hi, I’m Huy
 - 👀 I’m interested in AI and DataScience
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
